@@ -1,0 +1,8 @@
+App refactored with separated layouts for /(private), /(public) and /auth dirs
+
+Layouts in Next.js: Explain that layouts allow developers to apply a common structure to specific sections of the app.
+Shared Components: Demonstrate how shared components like Navbar and AuthProvider are integrated.
+Dynamic Layouts: Highlight the difference between public and private layouts.
+Authentication Flow: Walk them through how AuthGuard protects private routes and ensures a seamless user experience.
+
+With this refactor and explanation, your students will grasp the foundational concepts of layouts and authentication in Next.js!
