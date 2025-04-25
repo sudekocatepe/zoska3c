@@ -30,6 +30,7 @@ model User {
   Post      Post[]
 }
 
+
 model Account {
   userId            String
   type              String
