@@ -12,4 +12,4 @@
 4.  if encounter_problem then (try_to_solve_it == true) else if (unable_to_solve) then (ask_teacher == true);
 5.  if project.backup == false then project.github_sync();
 
-a
+a a
